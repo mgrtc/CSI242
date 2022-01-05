@@ -1,0 +1,5 @@
+Passcodes: Walnut and Waffle
+Participation: This week I had my camera turned on during Tuesday's lecture. During week 1 doing only 1 of a) being visible in class, b) asking or answering a questions, and c) engaging in office hours is required this is sufficient for my participation credit.
+Self Directed Learning: I started the Codeccademy js class and completed the Introduction to Javascript.
+Project: I got a bare bones website with just my name on it published on github pages.
+Extra Credit: I signed up for my 1 on 1 with you. That will be worth 2% extra credit after the meeting happens.
